@@ -57,4 +57,11 @@ p{
     margin-right: 30%;
     }
 }
+@media only screen and (min-width: 1535px){
+    .inner-container {
+         
+     margin-left: 40%;
+     margin-right: 30%;
+     }
+ }
 
