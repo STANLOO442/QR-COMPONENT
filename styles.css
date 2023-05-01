@@ -47,10 +47,14 @@ p{
 }
 
 
-@media only screen and (min-width: 1440px){
+
+
+
+@media only screen and (min-width: 665px){
    .inner-container {
         
     margin-left: 30%;
     margin-right: 30%;
     }
 }
+
