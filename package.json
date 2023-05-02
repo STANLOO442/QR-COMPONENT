@@ -2,6 +2,11 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
     
+
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
   }
+  
   
 }
